@@ -1,0 +1,1084 @@
+[
+    {
+        "breed_name": "Chihuahua",
+        "description": "The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing 'purse dogs' stand among the oldest breeds of the Americas.",
+        "origin": "Mexico",
+        "height": "5–8 inches",
+        "weight": "1–6 pounds",
+        "temperament": "Loyal, Alert, Courageous",
+        "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-On-White-01.jpg"
+    },
+    {
+        "breed_name": "Japanese Chin",
+        "description": "The Japanese Chin is a charming toy companion of silky, profuse coat and an unmistakably aristocratic bearing. Often described as a distinctly 'feline' breed, this bright and amusing lapdog is fastidious, graceful, and generally quiet.",
+        "origin": "Japan",
+        "height": "8–11 inches",
+        "weight": "4–9 pounds",
+        "temperament": "Affectionate, Intelligent, Reserved",
+        "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Japanese-Chin-On-White-01.jpg"
+    },
+    {
+        "breed_name": "Maltese Dog",
+        "description": "The Maltese is a gentle and fearless toy breed known for its long, flowing white coat.",
+        "origin": "Central Mediterranean",
+        "height": "7–9 inches",
+        "weight": "4–7 pounds",
+        "temperament": "Playful, Affectionate, Lively",
+        "image_url": "https://cdn.akc.org/Maltese.jpg"
+    },
+    {
+        "breed_name": "Pekingese",
+        "description": "The Pekingese is a compact toy breed with a regal demeanor, originally bred to be a companion of Chinese royalty.",
+        "origin": "China",
+        "height": "6–9 inches",
+        "weight": "7–14 pounds",
+        "temperament": "Independent, Affectionate, Regal",
+        "image_url": "https://cdn.akc.org/Pekingese.jpg"
+      },
+      {
+        "breed_name": "Shih Tzu",
+        "description": "The Shih Tzu is a lively, friendly toy dog with a long, flowing double coat and a sweet personality.",
+        "origin": "Tibet/China",
+        "height": "9–10.5 inches",
+        "weight": "9–16 pounds",
+        "temperament": "Outgoing, Friendly, Playful",
+        "image_url": "https://cdn.akc.org/ShihTzu.jpg"
+      },
+      {
+        "breed_name": "Blenheim Spaniel",
+        "description": "Blenheim refers to the chestnut and white coloration of the Cavalier King Charles Spaniel, known for its affectionate nature and graceful looks.",
+        "origin": "United Kingdom",
+        "height": "12–13 inches",
+        "weight": "13–18 pounds",
+        "temperament": "Affectionate, Gentle, Adaptable",
+        "image_url": "https://cdn.akc.org/Cavalier_Blenheim.jpg"
+      },
+      {
+        "breed_name": "Papillon",
+        "description": "The Papillon is a small, elegant toy dog with butterfly-like ears and a lively personality.",
+        "origin": "France/Belgium",
+        "height": "8–11 inches",
+        "weight": "5–10 pounds",
+        "temperament": "Friendly, Alert, Energetic",
+        "image_url": "https://cdn.akc.org/Papillon.jpg"
+      },
+      {
+        "breed_name": "English Toy Terrier",
+        "description": "A small and sleek breed once used for ratting, now a charming companion with a keen expression.",
+        "origin": "United Kingdom",
+        "height": "10–12 inches",
+        "weight": "6–8 pounds",
+        "temperament": "Alert, Spirited, Affectionate",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/English_Toy_Terrier.jpg"
+      },
+      {
+        "breed_name": "Rhodesian Ridgeback",
+        "description": "Originally bred in Africa to hunt lions, the Ridgeback is dignified, muscular, and known for the distinctive ridge on its back.",
+        "origin": "Southern Africa",
+        "height": "24–27 inches",
+        "weight": "70–85 pounds",
+        "temperament": "Dignified, Loyal, Intelligent",
+        "image_url": "https://cdn.akc.org/Rhodesian_Ridgeback.jpg"
+      },
+      {
+        "breed_name": "Afghan Hound",
+        "description": "An ancient breed known for its glamorous coat, speed, and independence, often called the aristocrat of the canine world.",
+        "origin": "Afghanistan",
+        "height": "25–27 inches",
+        "weight": "50–60 pounds",
+        "temperament": "Dignified, Independent, Sweet",
+        "image_url": "https://cdn.akc.org/Afghan_Hound.jpg" 
+      },
+      
+        {
+          "breed_name": "Basset Hound",
+          "description": "A scent hound originally bred for hunting hare, known for its droopy ears, short legs, and loyal nature.",
+          "origin": "France",
+          "height": "14–15 inches",
+          "weight": "40–65 pounds",
+          "temperament": "Friendly, Patient, Stubborn",
+          "image_url": "https://cdn.akc.org/Basset-Hound.jpg"
+        },
+        {
+          "breed_name": "Beagle",
+          "description": "A compact and energetic hound known for its keen sense of smell and love for companionship.",
+          "origin": "England",
+          "height": "13–15 inches",
+          "weight": "20–30 pounds",
+          "temperament": "Friendly, Curious, Merry",
+          "image_url": "https://cdn.akc.org/Beagle.jpg"
+        },
+        {
+          "breed_name": "Bloodhound",
+          "description": "A powerful scent hound famed for its tracking ability, especially in law enforcement.",
+          "origin": "France/Belgium",
+          "height": "23–27 inches",
+          "weight": "80–110 pounds",
+          "temperament": "Affectionate, Noble, Stubborn",
+          "image_url": "https://cdn.akc.org/Bloodhound.jpg"
+        },
+        {
+          "breed_name": "Bluetick Coonhound",
+          "description": "A tenacious tracker with a sleek coat and a musical bark, often used for raccoon hunting.",
+          "origin": "United States",
+          "height": "21–27 inches",
+          "weight": "45–80 pounds",
+          "temperament": "Smart, Devoted, Tenacious",
+          "image_url": "https://cdn.akc.org/Bluetick-Coonhound.jpg"
+        },
+        {
+          "breed_name": "Black and Tan Coonhound",
+          "description": "An all-American breed known for its bravery and tracking ability, especially for large game.",
+          "origin": "United States",
+          "height": "23–27 inches",
+          "weight": "65–110 pounds",
+          "temperament": "Easygoing, Brave, Gentle",
+          "image_url": "https://cdn.akc.org/Black-and-Tan-Coonhound.jpg"
+        },
+        {
+          "breed_name": "Treeing Walker Coonhound",
+          "description": "An intelligent and confident hound known for speed, endurance, and a love of the chase.",
+          "origin": "United States",
+          "height": "20–27 inches",
+          "weight": "50–70 pounds",
+          "temperament": "Smart, Confident, Energetic",
+          "image_url": "https://cdn.akc.org/Treeing-Walker-Coonhound.jpg"
+        },
+        {
+          "breed_name": "English Foxhound",
+          "description": "A sociable and active hound originally bred to hunt foxes, often used in packs.",
+          "origin": "England",
+          "height": "24 inches",
+          "weight": "60–75 pounds",
+          "temperament": "Gentle, Friendly, Active",
+          "image_url": "https://cdn.akc.org/English-Foxhound.jpg"
+        },
+        {
+          "breed_name": "Redbone Coonhound",
+          "description": "A sleek, red-coated hound known for its determination on the trail and affectionate nature.",
+          "origin": "United States",
+          "height": "21–27 inches",
+          "weight": "45–70 pounds",
+          "temperament": "Even-Tempered, Affectionate, Energetic",
+          "image_url": "https://cdn.akc.org/Redbone-Coonhound.jpg"
+        },
+        {
+          "breed_name": "Borzoi",
+          "description": "A majestic Russian sighthound known for its elegance, grace, and speed.",
+          "origin": "Russia",
+          "height": "26–28+ inches",
+          "weight": "60–105 pounds",
+          "temperament": "Calm, Dignified, Independent",
+          "image_url": "https://cdn.akc.org/Borzoi.jpg"
+        },
+        {
+          "breed_name": "Irish Wolfhound",
+          "description": "The tallest of all dog breeds, originally bred to hunt wolves, known for its gentle and patient nature.",
+          "origin": "Ireland",
+          "height": "30–32 inches and up",
+          "weight": "105–120+ pounds",
+          "temperament": "Gentle, Dignified, Courageous",
+          "image_url": "https://cdn.akc.org/Irish-Wolfhound.jpg" 
+        },
+        
+        {
+              "breed_name": "Italian Greyhound",
+              "description": "A small and graceful sighthound, known for its elegance and gentle nature, often seen as a companion dog.",
+              "origin": "Italy",
+              "height": "13–15 inches",
+              "weight": "7–14 pounds",
+              "temperament": "Affectionate, Playful, Quiet",
+              "image_url": "https://cdn.akc.org/Italian_Greyhound.jpg"
+            },
+        {
+              "breed_name": "Whippet",
+              "description": "A medium-sized sighthound known for its speed and agility, often used in racing and as a companion.",
+              "origin": "England",
+              "height": "18–22 inches",
+              "weight": "25–40 pounds",
+              "temperament": "Gentle, Friendly, Quiet",
+              "image_url": "https://cdn.akc.org/Whippet.jpg"
+            },
+        {
+              "breed_name": "Ibizan Hound",
+              "description": "A graceful, slender sighthound known for its long ears and hunting ability, often used in rabbit hunting.",
+              "origin": "Spain (Ibiza)",
+              "height": "23–29 inches",
+              "weight": "45–55 pounds",
+              "temperament": "Affectionate, Independent, Energetic",
+              "image_url": "https://cdn.akc.org/Ibizan_Hound.jpg"
+            },
+        {
+              "breed_name": "Norwegian Elkhound",
+              "description": "A rugged and versatile working dog known for its ability to hunt large game and its strong protective instincts.",
+              "origin": "Norway",
+              "height": "19–21 inches",
+              "weight": "48–55 pounds",
+              "temperament": "Loyal, Brave, Energetic",
+              "image_url": "https://cdn.akc.org/Norwegian_Elkhound.jpg"
+            },
+        {
+              "breed_name": "Otterhound",
+              "description": "A large and rugged scent hound known for its ability to track otters and other water-dwelling animals.",
+              "origin": "England",
+              "height": "24–27 inches",
+              "weight": "65–115 pounds",
+              "temperament": "Friendly, Energetic, Good-natured",
+              "image_url": "https://cdn.akc.org/Otterhound.jpg"
+            },
+        {
+              "breed_name": "Saluki",
+              "description": "An ancient and elegant sighthound known for its speed, agility, and regal appearance.",
+              "origin": "Middle East",
+              "height": "23–28 inches",
+              "weight": "35–65 pounds",
+              "temperament": "Independent, Gentle, Quiet",
+              "image_url": "https://cdn.akc.org/Saluki.jpg"
+            },
+        {
+              "breed_name": "Scottish Deerhound",
+              "description": "A majestic and powerful sighthound originally bred to hunt deer, known for its gentle and kind temperament.",
+              "origin": "Scotland",
+              "height": "28–32 inches",
+              "weight": "75–110 pounds",
+              "temperament": "Gentle, Dignified, Loyal",
+              "image_url": "https://cdn.akc.org/Scottish_Deerhound.jpg"
+            },
+        {
+              "breed_name": "Weimaraner",
+              "description": "A versatile and intelligent hunting dog, known for its silver-gray coat and high energy levels.",
+              "origin": "Germany",
+              "height": "23–27 inches",
+              "weight": "55–90 pounds",
+              "temperament": "Friendly, Energetic, Intelligent",
+              "image_url": "https://cdn.akc.org/Weimaraner.jpg"
+            },
+        {
+              "breed_name": "Staffordshire Bull Terrier",
+              "description": "A muscular and brave dog known for its loyalty and protective instincts, often referred to as a 'nanny dog' due to its affection for children.",
+              "origin": "England",
+              "height": "14–16 inches",
+              "weight": "24–38 pounds",
+              "temperament": "Courageous, Loyal, Affectionate",
+              "image_url": "https://cdn.akc.org/Staffordshire_Bull_Terrier.jpg"
+            },
+        {
+              "breed_name": "American Staffordshire Terrier",
+              "description": "A strong and determined dog, known for its loyalty and protective nature, often affectionate with family members.",
+              "origin": "United States",
+              "height": "17–19 inches",
+              "weight": "40–70 pounds",
+              "temperament": "Confident, Loyal, Intelligent",
+              "image_url": "https://cdn.akc.org/American_Staffordshire_Terrier.jpg"
+            },
+           {
+                  "breed_name": "Bedlington Terrier",
+                  "description": "A small, unique-looking terrier known for its lamb-like coat, often described as friendly and lively.",
+                  "origin": "England",
+                  "height": "16–17 inches",
+                  "weight": "17–23 pounds",
+                  "temperament": "Affectionate, Spirited, Gentle",
+                  "image_url": "https://cdn.akc.org/Bedlington_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Border Terrier",
+                  "description": "A small, energetic terrier known for its affectionate nature and tenacious hunting skills.",
+                  "origin": "England",
+                  "height": "10–11 inches",
+                  "weight": "11–15 pounds",
+                  "temperament": "Friendly, Lively, Intelligent",
+                  "image_url": "https://cdn.akc.org/Border_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Kerry Blue Terrier",
+                  "description": "A striking terrier with a soft, curly coat, known for its loyalty and intelligence, often used for herding and hunting.",
+                  "origin": "Ireland",
+                  "height": "17–20 inches",
+                  "weight": "33–40 pounds",
+                  "temperament": "Loyal, Energetic, Intelligent",
+                  "image_url": "https://cdn.akc.org/Kerry_Blue_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Irish Terrier",
+                  "description": "A sturdy, agile terrier, known for its bold personality and alertness, originally bred for hunting.",
+                  "origin": "Ireland",
+                  "height": "18–19 inches",
+                  "weight": "25–27 pounds",
+                  "temperament": "Bold, Friendly, Independent",
+                  "image_url": "https://cdn.akc.org/Irish_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Norfolk Terrier",
+                  "description": "A small, compact terrier known for its affectionate nature and versatility in hunting.",
+                  "origin": "England",
+                  "height": "9–10 inches",
+                  "weight": "11–12 pounds",
+                  "temperament": "Friendly, Lively, Affectionate",
+                  "image_url": "https://cdn.akc.org/Norfolk_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Norwich Terrier",
+                  "description": "A small and lively terrier, known for its energetic nature and strong hunting instincts.",
+                  "origin": "England",
+                  "height": "10 inches",
+                  "weight": "10–12 pounds",
+                  "temperament": "Affectionate, Spirited, Bold",
+                  "image_url": "https://cdn.akc.org/Norwich_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Yorkshire Terrier",
+                  "description": "A small, confident terrier known for its fine, silky coat, often seen as a companion dog with a bold personality.",
+                  "origin": "England",
+                  "height": "7–8 inches",
+                  "weight": "4–7 pounds",
+                  "temperament": "Affectionate, Spirited, Brave",
+                  "image_url": "https://cdn.akc.org/Yorkshire_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Wire-Haired Fox Terrier",
+                  "description": "An energetic and determined terrier, known for its wiry coat and fearless attitude in hunting.",
+                  "origin": "England",
+                  "height": "15 inches",
+                  "weight": "15–20 pounds",
+                  "temperament": "Energetic, Friendly, Curious",
+                  "image_url": "https://cdn.akc.org/Wire_Haired_Fox_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Lakeland Terrier",
+                  "description": "A small and feisty terrier with a strong hunting drive and a bold personality, originally bred in England.",
+                  "origin": "England",
+                  "height": "13–14 inches",
+                  "weight": "17–20 pounds",
+                  "temperament": "Friendly, Energetic, Independent",
+                  "image_url": "https://cdn.akc.org/Lakeland_Terrier.jpg"
+                },
+                {
+                  "breed_name": "Sealyham Terrier",
+                  "description": "A sturdy and confident terrier, known for its white coat and charming personality.",
+                  "origin": "Wales",
+                  "height": "10–12 inches",
+                  "weight": "20–24 pounds",
+                  "temperament": "Friendly, Playful, Affectionate",
+                  "image_url": "https://cdn.akc.org/Sealyham_Terrier.jpg"
+                },
+                {
+                    "breed_name": "Airedale Terrier",
+                    "description": "The Airedale Terrier is the largest of the terrier breeds, known for its intelligence, confidence, and friendly nature.",
+                    "origin": "England",
+                    "height": "21–23 inches",
+                    "weight": "40–65 pounds",
+                    "temperament": "Confident, Intelligent, Friendly",
+                    "image_url": "https://cdn.akc.org/Airedale_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Cairn Terrier",
+                    "description": "A small, energetic terrier known for its playful and affectionate nature, and a wiry, weather-resistant coat.",
+                    "origin": "Scotland",
+                    "height": "9–10 inches",
+                    "weight": "13–14 pounds",
+                    "temperament": "Friendly, Energetic, Bold",
+                    "image_url": "https://cdn.akc.org/Cairn_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Australian Terrier",
+                    "description": "A small, spirited terrier with a harsh coat, known for its loyalty and protective nature.",
+                    "origin": "Australia",
+                    "height": "10–11 inches",
+                    "weight": "14–16 pounds",
+                    "temperament": "Loyal, Spirited, Brave",
+                    "image_url": "https://cdn.akc.org/Australian_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Dandie Dinmont Terrier",
+                    "description": "A distinctive terrier with a soft coat, known for its sweet, friendly personality and unique appearance.",
+                    "origin": "Scotland",
+                    "height": "8–11 inches",
+                    "weight": "18–24 pounds",
+                    "temperament": "Friendly, Independent, Affectionate",
+                    "image_url": "https://cdn.akc.org/Dandie_Dinmont_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Boston Bull Terrier",
+                    "description": "Also known as the Boston Terrier, a compact and muscular dog known for its friendly demeanor and distinctive tuxedo-like markings.",
+                    "origin": "United States",
+                    "height": "15–17 inches",
+                    "weight": "10–25 pounds",
+                    "temperament": "Friendly, Intelligent, Playful",
+                    "image_url": "https://cdn.akc.org/Boston_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Miniature Schnauzer",
+                    "description": "A small, sturdy dog known for its distinctive beard and eyebrows, playful and loyal temperament.",
+                    "origin": "Germany",
+                    "height": "12–14 inches",
+                    "weight": "11–20 pounds",
+                    "temperament": "Friendly, Energetic, Alert",
+                    "image_url": "https://cdn.akc.org/Miniature_Schnauzer.jpg"
+                  },
+                  {
+                    "breed_name": "Giant Schnauzer",
+                    "description": "A large and powerful dog, known for its protective nature, loyalty, and distinctive thick coat.",
+                    "origin": "Germany",
+                    "height": "23–27 inches",
+                    "weight": "55–85 pounds",
+                    "temperament": "Loyal, Protective, Confident",
+                    "image_url": "https://cdn.akc.org/Giant_Schnauzer.jpg"
+                  },
+                  {
+                    "breed_name": "Standard Schnauzer",
+                    "description": "A medium-sized dog known for its distinctive bearded face and alert, energetic personality.",
+                    "origin": "Germany",
+                    "height": "17–20 inches",
+                    "weight": "30–50 pounds",
+                    "temperament": "Friendly, Energetic, Alert",
+                    "image_url": "https://cdn.akc.org/Standard_Schnauzer.jpg"
+                  },
+                  {
+                    "breed_name": "Scotch Terrier",
+                    "description": "The Scottish Terrier, or Scottie, is a small, spirited dog known for its confident attitude and distinctive silhouette.",
+                    "origin": "Scotland",
+                    "height": "10 inches",
+                    "weight": "18–22 pounds",
+                    "temperament": "Confident, Loyal, Spirited",
+                    "image_url": "https://cdn.akc.org/Scottish_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Tibetan Terrier",
+                    "description": "A small, sturdy dog with a long, flowing coat, known for its affectionate and gentle nature.",
+                    "origin": "Tibet",
+                    "height": "14–17 inches",
+                    "weight": "20–24 pounds",
+                    "temperament": "Affectionate, Gentle, Loyal",
+                    "image_url": "https://cdn.akc.org/Tibetan_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Silky Terrier",
+                    "description": "A small, energetic terrier known for its silky coat and confident, alert demeanor.",
+                    "origin": "Australia",
+                    "height": "9–10 inches",
+                    "weight": "8–10 pounds",
+                    "temperament": "Energetic, Intelligent, Confident",
+                    "image_url": "https://cdn.akc.org/Silky_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Soft-Coated Wheaten Terrier",
+                    "description": "A medium-sized terrier with a soft, silky coat, known for its affectionate and friendly nature.",
+                    "origin": "Ireland",
+                    "height": "17–19 inches",
+                    "weight": "30–40 pounds",
+                    "temperament": "Affectionate, Friendly, Playful",
+                    "image_url": "https://cdn.akc.org/Soft_Coated_Wheaten_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "West Highland White Terrier",
+                    "description": "A small, sturdy terrier with a distinctive white coat, known for its energetic and fearless personality.",
+                    "origin": "Scotland",
+                    "height": "10 inches",
+                    "weight": "15–22 pounds",
+                    "temperament": "Energetic, Brave, Affectionate",
+                    "image_url": "https://cdn.akc.org/West_Highland_White_Terrier.jpg"
+                  },
+                  {
+                    "breed_name": "Lhasa Apso",
+                    "description": "A small, hardy dog with a long, flowing coat, known for its independent and affectionate nature.",
+                    "origin": "Tibet",
+                    "height": "10–11 inches",
+                    "weight": "12–18 pounds",
+                    "temperament": "Affectionate, Independent, Playful",
+                    "image_url": "https://cdn.akc.org/Lhasa_Apso.jpg"
+                  },
+                  {
+                    "breed_name": "Flat-Coated Retriever",
+                    "description": "A friendly, outgoing retriever known for its long, glossy coat and happy, playful nature.",
+                    "origin": "United Kingdom",
+                    "height": "22–24 inches",
+                    "weight": "60–70 pounds",
+                    "temperament": "Friendly, Outgoing, Playful",
+                    "image_url": "https://cdn.akc.org/Flat_Coated_Retriever.jpg"
+                  },
+                  {
+                    "breed_name": "Curly-Coated Retriever",
+                    "description": "A versatile and energetic retriever known for its curly coat and excellent swimming abilities.",
+                    "origin": "United Kingdom",
+                    "height": "22–27 inches",
+                    "weight": "60–80 pounds",
+                    "temperament": "Energetic, Intelligent, Friendly",
+                    "image_url": "https://cdn.akc.org/Curly_Coated_Retriever.jpg"
+                  },
+                  {
+                    "breed_name": "Golden Retriever",
+                    "description": "A highly intelligent and friendly breed known for its beautiful golden coat and gentle nature.",
+                    "origin": "United Kingdom",
+                    "height": "21.5–24 inches",
+                    "weight": "55–75 pounds",
+                    "temperament": "Friendly, Intelligent, Devoted",
+                    "image_url": "https://cdn.akc.org/Golden_Retriever.jpg"
+                  },
+                  {
+                    "breed_name": "Labrador Retriever",
+                    "description": "An intelligent and friendly breed, known for its outgoing personality and excellent retrieving skills.",
+                    "origin": "Canada",
+                    "height": "21.5–24.5 inches",
+                    "weight": "55–80 pounds",
+                    "temperament": "Friendly, Outgoing, High-spirited",
+                    "image_url": "https://cdn.akc.org/Labrador_Retriever.jpg"
+                  },
+                  {
+                    "breed_name": "Chesapeake Bay Retriever",
+                    "description": "A strong and intelligent retriever, known for its love of water and excellent hunting abilities.",
+                    "origin": "United States",
+                    "height": "21–26 inches",
+                    "weight": "55–80 pounds",
+                    "temperament": "Loyal, Intelligent, Courageous",
+                    "image_url": "https://cdn.akc.org/Chesapeake_Bay_Retriever.jpg"
+                  },
+                  {
+                    "breed_name": "German Shorthaired Pointer",
+                    "description": "A versatile and energetic hunting dog, known for its intelligence, endurance, and excellent pointing skills.",
+                    "origin": "Germany",
+                    "height": "21–25 inches",
+                    "weight": "45–70 pounds",
+                    "temperament": "Energetic, Intelligent, Friendly",
+                    "image_url": "https://cdn.akc.org/German_Shorthaired_Pointer.jpg"
+                  },   
+                  {
+                    "breed_name": "Vizsla",
+                    "description": "A versatile, energetic hunting dog known for its loyalty, intelligence, and affectionate nature.",
+                    "origin": "Hungary",
+                    "height": "21–24 inches",
+                    "weight": "45–65 pounds",
+                    "temperament": "Energetic, Loyal, Intelligent",
+                    "image_url": "https://cdn.akc.org/Vizsla.jpg"
+                  },
+                  {
+                    "breed_name": "English Setter",
+                    "description": "A gentle and friendly bird dog known for its beautiful coat and calm disposition.",
+                    "origin": "United Kingdom",
+                    "height": "24–27 inches",
+                    "weight": "45–80 pounds",
+                    "temperament": "Friendly, Affectionate, Intelligent",
+                    "image_url": "https://cdn.akc.org/English_Setter.jpg"
+                  },
+                  {
+                    "breed_name": "Irish Setter",
+                    "description": "An energetic and friendly dog, known for its beautiful red coat and excellent hunting abilities.",
+                    "origin": "Ireland",
+                    "height": "24–27 inches",
+                    "weight": "60–70 pounds",
+                    "temperament": "Energetic, Friendly, Outgoing",
+                    "image_url": "https://cdn.akc.org/Irish_Setter.jpg"
+                  },
+                  {
+                    "breed_name": "Gordon Setter",
+                    "description": "A large, energetic setter known for its black and tan coat, and excellent hunting skills.",
+                    "origin": "United Kingdom",
+                    "height": "24–27 inches",
+                    "weight": "45–80 pounds",
+                    "temperament": "Loyal, Intelligent, Affectionate",
+                    "image_url": "https://cdn.akc.org/Gordon_Setter.jpg"
+                  },
+                  {
+                    "breed_name": "Brittany Spaniel",
+                    "description": "A highly energetic bird dog known for its enthusiasm and excellent retrieving abilities.",
+                    "origin": "France",
+                    "height": "17–20 inches",
+                    "weight": "30–40 pounds",
+                    "temperament": "Energetic, Intelligent, Friendly",
+                    "image_url": "https://cdn.akc.org/Brittany_Spaniel.jpg"
+                  },
+                  {
+                    "breed_name": "Clumber Spaniel",
+                    "description": "A calm and laid-back dog known for its strong work ethic and distinctive long body.",
+                    "origin": "United Kingdom",
+                    "height": "17–20 inches",
+                    "weight": "55–85 pounds",
+                    "temperament": "Calm, Friendly, Loyal",
+                    "image_url": "https://cdn.akc.org/Clumber_Spaniel.jpg"
+                  },
+                  {
+                    "breed_name": "English Springer Spaniel",
+                    "description": "A friendly and energetic hunting dog known for its intelligence and good nature.",
+                    "origin": "United Kingdom",
+                    "height": "18–20 inches",
+                    "weight": "40–50 pounds",
+                    "temperament": "Friendly, Active, Intelligent",
+                    "image_url": "https://cdn.akc.org/English_Springer_Spaniel.jpg"
+                  },
+                  {
+                    "breed_name": "Welsh Springer Spaniel",
+                    "description": "A friendly and hardworking spaniel known for its affectionate nature and strong hunting abilities.",
+                    "origin": "Wales",
+                    "height": "17–19 inches",
+                    "weight": "35–45 pounds",
+                    "temperament": "Friendly, Energetic, Affectionate",
+                    "image_url": "https://cdn.akc.org/Welsh_Springer_Spaniel.jpg"
+                  },
+                  {
+                    "breed_name": "Cocker Spaniel",
+                    "description": "A cheerful and affectionate spaniel known for its silky coat and outgoing nature.",
+                    "origin": "United Kingdom",
+                    "height": "14–15 inches",
+                    "weight": "20–30 pounds",
+                    "temperament": "Friendly, Affectionate, Intelligent",
+                    "image_url": "https://cdn.akc.org/Cocker_Spaniel.jpg"
+                  },
+                  {
+                    "breed_name": "Sussex Spaniel",
+                    "description": "A friendly, affectionate spaniel known for its loyal and calm temperament, often used as a hunting dog.",
+                    "origin": "United Kingdom",
+                    "height": "13–15 inches",
+                    "weight": "35–45 pounds",
+                    "temperament": "Loyal, Calm, Gentle",
+                    "image_url": "https://cdn.akc.org/Sussex_Spaniel.jpg"
+                  },
+                  {
+                    "breed_name": "Irish Water Spaniel",
+                    "description": "An energetic and intelligent water retriever known for its curly coat and excellent swimming abilities.",
+                    "origin": "Ireland",
+                    "height": "21–24 inches",
+                    "weight": "45–65 pounds",
+                    "temperament": "Energetic, Intelligent, Friendly",
+                    "image_url": "https://cdn.akc.org/Irish_Water_Spaniel.jpg"
+                  },
+                  {
+                    "breed_name": "Kuvasz",
+                    "description": "A large, protective dog known for its white coat and strong guarding instincts.",
+                    "origin": "Hungary",
+                    "height": "26–30 inches",
+                    "weight": "70–115 pounds",
+                    "temperament": "Loyal, Protective, Independent",
+                    "image_url": "https://cdn.akc.org/Kuvasz.jpg"
+                  },
+                  {
+                    "breed_name": "Schipperke",
+                    "description": "A small, energetic working dog known for its fox-like appearance and intelligent, curious nature.",
+                    "origin": "Belgium",
+                    "height": "10–13 inches",
+                    "weight": "16–18 pounds",
+                    "temperament": "Energetic, Curious, Intelligent",
+                    "image_url": "https://cdn.akc.org/Schipperke.jpg"
+                  },
+                  {
+                    "breed_name": "Groenendael",
+                    "description": "A large, elegant Belgian Shepherd known for its intelligence, trainability, and strong work ethic.",
+                    "origin": "Belgium",
+                    "height": "22–26 inches",
+                    "weight": "60–75 pounds",
+                    "temperament": "Intelligent, Loyal, Protective",
+                    "image_url": "https://cdn.akc.org/Groenendael.jpg"
+                  },
+                  {
+                    "breed_name": "Malinois",
+                    "description": "A highly intelligent, alert Belgian Shepherd known for its working ability and strong drive.",
+                    "origin": "Belgium",
+                    "height": "22–26 inches",
+                    "weight": "40–80 pounds",
+                    "temperament": "Intelligent, Confident, Loyal",
+                    "image_url": "https://cdn.akc.org/Malinois.jpg"
+                  },
+                    {
+                      "breed_name": "Briard",
+                      "description": "A large, strong, and intelligent herding dog known for its long, flowing coat and loyalty.",
+                      "origin": "France",
+                      "height": "22–27 inches",
+                      "weight": "50–100 pounds",
+                      "temperament": "Loyal, Intelligent, Protective",
+                      "image_url": "https://cdn.akc.org/Briard.jpg"
+                    },
+                    {
+                      "breed_name": "Kelpie",
+                      "description": "A highly energetic and intelligent herding dog, known for its exceptional stamina and agility.",
+                      "origin": "Australia",
+                      "height": "17–20 inches",
+                      "weight": "25–45 pounds",
+                      "temperament": "Energetic, Intelligent, Loyal",
+                      "image_url": "https://cdn.akc.org/Kelpie.jpg"
+                    },
+                    {
+                      "breed_name": "Komondor",
+                      "description": "A large, protective dog known for its distinctive white corded coat, used as a flock guardian.",
+                      "origin": "Hungary",
+                      "height": "25–31 inches",
+                      "weight": "80–100 pounds",
+                      "temperament": "Protective, Loyal, Independent",
+                      "image_url": "https://cdn.akc.org/Komondor.jpg"
+                    },
+                    {
+                      "breed_name": "Old English Sheepdog",
+                      "description": "A large, fluffy herding dog known for its shaggy coat and friendly, gentle personality.",
+                      "origin": "United Kingdom",
+                      "height": "21–24 inches",
+                      "weight": "60–100 pounds",
+                      "temperament": "Gentle, Friendly, Intelligent",
+                      "image_url": "https://cdn.akc.org/Old_English_Sheepdog.jpg"
+                    },
+                    {
+                      "breed_name": "Shetland Sheepdog",
+                      "description": "A small, intelligent herding dog known for its striking coat and excellent agility.",
+                      "origin": "Scotland",
+                      "height": "13–16 inches",
+                      "weight": "15–25 pounds",
+                      "temperament": "Energetic, Intelligent, Loyal",
+                      "image_url": "https://cdn.akc.org/Shetland_Sheepdog.jpg"
+                    },
+                    {
+                      "breed_name": "Collie",
+                      "description": "A graceful herding dog known for its intelligence, agility, and beautiful coat, famous for its role as 'Lassie.'",
+                      "origin": "Scotland",
+                      "height": "22–26 inches",
+                      "weight": "50–75 pounds",
+                      "temperament": "Gentle, Intelligent, Loyal",
+                      "image_url": "https://cdn.akc.org/Collie.jpg"
+                    },
+                    {
+                      "breed_name": "Border Collie",
+                      "description": "A highly intelligent and energetic herding dog, known for its work ethic and agility.",
+                      "origin": "United Kingdom",
+                      "height": "18–22 inches",
+                      "weight": "30–45 pounds",
+                      "temperament": "Intelligent, Energetic, Loyal",
+                      "image_url": "https://cdn.akc.org/Border_Collie.jpg"
+                    },
+                    {
+                      "breed_name": "Bouvier des Flandres",
+                      "description": "A strong and versatile herding dog, known for its dense coat and calm, protective nature.",
+                      "origin": "Belgium",
+                      "height": "23–27 inches",
+                      "weight": "60–120 pounds",
+                      "temperament": "Loyal, Intelligent, Protective",
+                      "image_url": "https://cdn.akc.org/Bouvier_des_Flandres.jpg"
+                    },
+                    {
+                      "breed_name": "Rottweiler",
+                      "description": "A powerful, confident, and protective breed known for its guarding instincts and loyalty.",
+                      "origin": "Germany",
+                      "height": "22–27 inches",
+                      "weight": "80–135 pounds",
+                      "temperament": "Loyal, Confident, Protective",
+                      "image_url": "https://cdn.akc.org/Rottweiler.jpg"
+                    },
+                    {
+                      "breed_name": "German Shepherd",
+                      "description": "A versatile working dog known for its intelligence, loyalty, and courage, often used in police and military work.",
+                      "origin": "Germany",
+                      "height": "22–26 inches",
+                      "weight": "50–90 pounds",
+                      "temperament": "Intelligent, Loyal, Protective",
+                      "image_url": "https://cdn.akc.org/German_Shepherd.jpg"
+                    },
+                    {
+                      "breed_name": "Doberman",
+                      "description": "A sleek, athletic breed known for its intelligence, loyalty, and protective instincts.",
+                      "origin": "Germany",
+                      "height": "24–28 inches",
+                      "weight": "60–100 pounds",
+                      "temperament": "Intelligent, Loyal, Protective",
+                      "image_url": "https://cdn.akc.org/Doberman.jpg"
+                    },
+                    {
+                      "breed_name": "Miniature Pinscher",
+                      "description": "A small, compact dog known for its energetic personality and strong, confident demeanor.",
+                      "origin": "Germany",
+                      "height": "10–12.5 inches",
+                      "weight": "8–12 pounds",
+                      "temperament": "Energetic, Confident, Independent",
+                      "image_url": "https://cdn.akc.org/Miniature_Pinscher.jpg"
+                    },
+                    {
+                      "breed_name": "Greater Swiss Mountain Dog",
+                      "description": "A large, muscular working dog known for its friendly and gentle temperament.",
+                      "origin": "Switzerland",
+                      "height": "23–28 inches",
+                      "weight": "85–140 pounds",
+                      "temperament": "Friendly, Loyal, Confident",
+                      "image_url": "https://cdn.akc.org/Greater_Swiss_Mountain_Dog.jpg"
+                    },
+                    {
+                      "breed_name": "Bernese Mountain Dog",
+                      "description": "A large, affectionate working dog known for its striking tri-color coat and calm, gentle temperament.",
+                      "origin": "Switzerland",
+                      "height": "23–28 inches",
+                      "weight": "70–115 pounds",
+                      "temperament": "Gentle, Loyal, Intelligent",
+                      "image_url": "https://cdn.akc.org/Bernese_Mountain_Dog.jpg"
+                    },
+                    {
+                      "breed_name": "Appenzeller",
+                      "description": "A medium-sized, active herding dog known for its intelligence and agility.",
+                      "origin": "Switzerland",
+                      "height": "16–19 inches",
+                      "weight": "35–55 pounds",
+                      "temperament": "Energetic, Loyal, Intelligent",
+                      "image_url": "https://cdn.akc.org/Appenzeller.jpg"
+                    },                                  
+                    {
+                      "breed_name": "Entlebucher",
+                      "description": "A medium-sized, energetic herding dog known for its intelligence and agility, often used in farm work.",
+                      "origin": "Switzerland",
+                      "height": "16–20 inches",
+                      "weight": "40–50 pounds",
+                      "temperament": "Energetic, Intelligent, Loyal",
+                      "image_url": "https://cdn.akc.org/Entlebucher.jpg"
+                    },
+                    {
+                      "breed_name": "Boxer",
+                      "description": "A strong, energetic, and playful breed known for its boundless energy and affectionate nature.",
+                      "origin": "Germany",
+                      "height": "21–25 inches",
+                      "weight": "50–80 pounds",
+                      "temperament": "Energetic, Playful, Loyal",
+                      "image_url": "https://cdn.akc.org/Boxer.jpg"
+                    },
+                    {
+                      "breed_name": "Bull Mastiff",
+                      "description": "A large, powerful, and protective breed known for its loyalty and gentle temperament with families.",
+                      "origin": "United Kingdom",
+                      "height": "24–27 inches",
+                      "weight": "100–130 pounds",
+                      "temperament": "Gentle, Protective, Loyal",
+                      "image_url": "https://cdn.akc.org/Bull_Mastiff.jpg"
+                    },
+                    {
+                      "breed_name": "Tibetan Mastiff",
+                      "description": "A large and protective breed, known for its thick coat and guarding instincts.",
+                      "origin": "Tibet",
+                      "height": "24–30 inches",
+                      "weight": "70–150 pounds",
+                      "temperament": "Independent, Protective, Aloof",
+                      "image_url": "https://cdn.akc.org/Tibetan_Mastiff.jpg"
+                    },
+                    {
+                      "breed_name": "French Bulldog",
+                      "description": "A small, affectionate, and playful breed known for its bat-like ears and sweet temperament.",
+                      "origin": "France",
+                      "height": "11–12 inches",
+                      "weight": "16–28 pounds",
+                      "temperament": "Affectionate, Playful, Loyal",
+                      "image_url": "https://cdn.akc.org/French_Bulldog.jpg"
+                    },
+                    {
+                      "breed_name": "Great Dane",
+                      "description": "A giant breed known for its size, elegance, and gentle nature, often referred to as a 'gentle giant.'",
+                      "origin": "Germany",
+                      "height": "28–34 inches",
+                      "weight": "110–175 pounds",
+                      "temperament": "Gentle, Friendly, Loyal",
+                      "image_url": "https://cdn.akc.org/Great_Dane.jpg"
+                    },
+                    {
+                      "breed_name": "Saint Bernard",
+                      "description": "A giant, gentle breed known for its impressive size and calm, loving temperament, originally used for rescue work.",
+                      "origin": "Switzerland",
+                      "height": "26–30 inches",
+                      "weight": "120–180 pounds",
+                      "temperament": "Gentle, Friendly, Loyal",
+                      "image_url": "https://cdn.akc.org/Saint_Bernard.jpg"
+                    },
+                    {
+                      "breed_name": "Eskimo Dog",
+                      "description": "A strong, energetic breed known for its thick coat and ability to work in harsh climates, often used as a sled dog.",
+                      "origin": "North America",
+                      "height": "20–24 inches",
+                      "weight": "60–100 pounds",
+                      "temperament": "Energetic, Friendly, Independent",
+                      "image_url": "https://cdn.akc.org/Eskimo_Dog.jpg"
+                    },
+                    {
+                      "breed_name": "Malamute",
+                      "description": "A large, powerful breed known for its strength and stamina, often used for pulling sleds in harsh environments.",
+                      "origin": "Alaska, USA",
+                      "height": "23–25 inches",
+                      "weight": "75–100 pounds",
+                      "temperament": "Friendly, Strong, Independent",
+                      "image_url": "https://cdn.akc.org/Malamute.jpg"
+                    },
+                    {
+                      "breed_name": "Siberian Husky",
+                      "description": "A strikingly beautiful breed known for its wolf-like appearance and high energy levels, originally bred as a sled dog.",
+                      "origin": "Siberia",
+                      "height": "20–24 inches",
+                      "weight": "35–60 pounds",
+                      "temperament": "Friendly, Energetic, Independent",
+                      "image_url": "https://cdn.akc.org/Siberian_Husky.jpg"
+                    },
+                    {
+                      "breed_name": "Affenpinscher",
+                      "description": "A small, toy breed with a big personality, known for its playful, curious nature and distinctive, monkey-like appearance.",
+                      "origin": "Germany",
+                      "height": "9–12 inches",
+                      "weight": "7–10 pounds",
+                      "temperament": "Playful, Curious, Stubborn",
+                      "image_url": "https://cdn.akc.org/Affenpinscher.jpg"
+                    },
+                    {
+                      "breed_name": "Basenji",
+                      "description": "A small to medium-sized breed known for its hunting ability and unique 'baroo' vocalization, often called the 'barkless dog.'",
+                      "origin": "Central Africa",
+                      "height": "16–17 inches",
+                      "weight": "20–24 pounds",
+                      "temperament": "Independent, Energetic, Loyal",
+                      "image_url": "https://cdn.akc.org/Basenji.jpg"
+                    },
+                    {
+                      "breed_name": "Pug",
+                      "description": "A small, charming breed known for its wrinkled face, playful demeanor, and affectionate nature.",
+                      "origin": "China",
+                      "height": "10–13 inches",
+                      "weight": "14–18 pounds",
+                      "temperament": "Playful, Affectionate, Charming",
+                      "image_url": "https://cdn.akc.org/Pug.jpg"
+                    },
+                    {
+                      "breed_name": "Leonberg",
+                      "description": "A giant breed known for its calm, gentle temperament and large size, originally bred as a companion dog.",
+                      "origin": "Germany",
+                      "height": "25–31 inches",
+                      "weight": "90–170 pounds",
+                      "temperament": "Gentle, Loyal, Affectionate",
+                      "image_url": "https://cdn.akc.org/Leonberg.jpg"
+                    },
+                    {
+                      "breed_name": "Newfoundland",
+                      "description": "A large, strong breed known for its swimming ability, gentle nature, and working background as a water rescue dog.",
+                      "origin": "Canada",
+                      "height": "26–28 inches",
+                      "weight": "100–150 pounds",
+                      "temperament": "Gentle, Patient, Loyal",
+                      "image_url": "https://cdn.akc.org/Newfoundland.jpg"
+                    },                                  
+                    {
+                      "breed_name": "Great Pyrenees",
+                      "description": "A large, powerful breed known for its protective nature, used as a livestock guardian dog with a calm and gentle demeanor.",
+                      "origin": "France",
+                      "height": "25–32 inches",
+                      "weight": "85–115 pounds",
+                      "temperament": "Calm, Protective, Gentle",
+                      "image_url": "https://cdn.akc.org/Great_Pyrenees.jpg"
+                    },
+                    {
+                      "breed_name": "Samoyed",
+                      "description": "A fluffy, friendly breed known for its beautiful white coat and 'Sammy smile,' often used as a sled dog.",
+                      "origin": "Siberia",
+                      "height": "19–23.5 inches",
+                      "weight": "35–65 pounds",
+                      "temperament": "Friendly, Playful, Energetic",
+                      "image_url": "https://cdn.akc.org/Samoyed.jpg"
+                    },
+                    {
+                      "breed_name": "Pomeranian",
+                      "description": "A small, lively, and fluffy toy breed known for its large personality and fox-like face.",
+                      "origin": "Germany/Poland",
+                      "height": "7–8 inches",
+                      "weight": "3–7 pounds",
+                      "temperament": "Lively, Intelligent, Extroverted",
+                      "image_url": "https://cdn.akc.org/Pomeranian.jpg"
+                    },
+                    {
+                      "breed_name": "Chow Chow",
+                      "description": "A strong, independent breed with a lion-like mane and a proud, aloof demeanor.",
+                      "origin": "China",
+                      "height": "17–20 inches",
+                      "weight": "45–70 pounds",
+                      "temperament": "Aloof, Loyal, Independent",
+                      "image_url": "https://cdn.akc.org/Chow_Chow.jpg"
+                    },
+                    {
+                      "breed_name": "Keeshond",
+                      "description": "A medium-sized breed known for its fox-like appearance and a thick, double-layered coat, often described as a 'smiling' breed.",
+                      "origin": "Germany/Netherlands",
+                      "height": "17–18 inches",
+                      "weight": "35–45 pounds",
+                      "temperament": "Friendly, Affectionate, Playful",
+                      "image_url": "https://cdn.akc.org/Keeshond.jpg"
+                    },
+                    {
+                      "breed_name": "Brabancon Griffon",
+                      "description": "A small, sturdy toy breed known for its expressive face and sweet, affectionate temperament.",
+                      "origin": "Belgium",
+                      "height": "7–12 inches",
+                      "weight": "8–12 pounds",
+                      "temperament": "Affectionate, Loyal, Energetic",
+                      "image_url": "https://cdn.akc.org/Brabancon_Griffon.jpg"
+                    },
+                    {
+                      "breed_name": "Pembroke Welsh Corgi",
+                      "description": "A small, agile herding breed with a short body and long legs, known for its intelligence and playful personality.",
+                      "origin": "Wales",
+                      "height": "10–12 inches",
+                      "weight": "25–30 pounds",
+                      "temperament": "Friendly, Intelligent, Playful",
+                      "image_url": "https://cdn.akc.org/Pembroke_Corgi.jpg"
+                    },
+                    {
+                      "breed_name": "Cardigan Welsh Corgi",
+                      "description": "A sturdy and intelligent herding dog, known for its beautiful coat and affectionate nature.",
+                      "origin": "Wales",
+                      "height": "10–12 inches",
+                      "weight": "25–38 pounds",
+                      "temperament": "Affectionate, Loyal, Intelligent",
+                      "image_url": "https://cdn.akc.org/Cardigan_Corgi.jpg"
+                    },
+                    {
+                      "breed_name": "Toy Poodle",
+                      "description": "A small and intelligent breed known for its curly coat and playful, friendly nature.",
+                      "origin": "France",
+                      "height": "9–10 inches",
+                      "weight": "4–6 pounds",
+                      "temperament": "Intelligent, Active, Friendly",
+                      "image_url": "https://cdn.akc.org/Toy_Poodle.jpg"
+                    },
+                    {
+                      "breed_name": "Miniature Poodle",
+                      "description": "A small but athletic and intelligent breed, often used in dog sports and as a companion dog.",
+                      "origin": "France",
+                      "height": "10–15 inches",
+                      "weight": "10–15 pounds",
+                      "temperament": "Intelligent, Energetic, Friendly",
+                      "image_url": "https://cdn.akc.org/Miniature_Poodle.jpg"
+                    },
+                    {
+                      "breed_name": "Standard Poodle",
+                      "description": "A large, elegant breed known for its curly coat and high intelligence, often used as a show dog or in hunting.",
+                      "origin": "France",
+                      "height": "15+ inches",
+                      "weight": "40–70 pounds",
+                      "temperament": "Intelligent, Active, Friendly",
+                      "image_url": "https://cdn.akc.org/Standard_Poodle.jpg"
+                    },
+                    {
+                      "breed_name": "Mexican Hairless Dog",
+                      "description": "A unique, hairless breed known for its ancient history and friendly, affectionate temperament.",
+                      "origin": "Mexico",
+                      "height": "18–23 inches",
+                      "weight": "10–30 pounds",
+                      "temperament": "Affectionate, Lively, Loyal",
+                      "image_url": "https://cdn.akc.org/Mexican_Hairless_Dog.jpg"
+                    },
+                    {
+                      "breed_name": "Dingo",
+                      "description": "A wild dog from Australia known for its independence and survival skills in harsh conditions.",
+                      "origin": "Australia",
+                      "height": "18–24 inches",
+                      "weight": "24–44 pounds",
+                      "temperament": "Independent, Wary, Intelligent",
+                      "image_url": "https://cdn.akc.org/Dingo.jpg"
+                    },
+                    {
+                      "breed_name": "Dhole",
+                      "description": "A wild dog from Asia known for its hunting pack mentality and social behavior.",
+                      "origin": "Asia",
+                      "height": "16–20 inches",
+                      "weight": "24–46 pounds",
+                      "temperament": "Social, Intelligent, Playful",
+                      "image_url": "https://cdn.akc.org/Dhole.jpg"
+                    },
+                    {
+                      "breed_name": "African Hunting Dog",
+                      "description": "A highly social wild dog known for its cooperative hunting style and distinct markings.",
+                      "origin": "Africa",
+                      "height": "24–30 inches",
+                      "weight": "40–75 pounds",
+                      "temperament": "Social, Energetic, Loyal",
+                      "image_url": "https://cdn.akc.org/African_Hunting_Dog.jpg"
+                    }                                                                      
+]
